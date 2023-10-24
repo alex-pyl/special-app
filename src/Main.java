@@ -8,7 +8,7 @@ public class Main {
         while(true){
             int attempt = new Scanner(System.in).nextInt();
             if(value == attempt){
-                System.out.println("Вы угадали!");
+                System.out.println("Вы угадали!!");
                 break;
             }
             else{
